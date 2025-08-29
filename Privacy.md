@@ -15,6 +15,7 @@ We take reasonable steps to ensure Nixer Bot operates securely and does not expo
 
 ## 4. Contact
 For questions or concerns, contact **moonlight_games3**.
-You can also join my server with this link: **https://discord.gg/Kfu9VANBwU**.
+<br>
+You can also join our server with this link: **https://discord.gg/Kfu9VANBwU**.
 
 Made by MythLight Games.
